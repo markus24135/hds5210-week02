@@ -1,0 +1,6 @@
+%%bash
+cd ~/notebooks
+git clone git@github.com:markus24135/hds5210-week02.git
+#202318 is the total number of 10-14 year olds in Missouri
+#2% of this number is
+.02*202318
